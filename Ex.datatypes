@@ -1,0 +1,36 @@
+#ex1 
+x = "Hello World"
+
+#display x:
+print(x)
+
+#display the data type of x:
+print(type(x))
+
+#ex2
+x = 1j
+
+#display x:
+print(x)
+
+#display the data type of x:
+print(type(x)) 
+
+#ex3
+x = ("apple", "banana", "cherry")
+
+#display x:
+print(x)
+
+#display the data type of x:
+print(type(x)) 
+
+
+#ex4
+x = b"Hello"
+
+#display x:
+print(x)
+
+#display the data type of x:
+print(type(x)) 
