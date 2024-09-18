@@ -1,0 +1,17 @@
+#ex1
+a = "Hello, World!"
+print(a.upper())
+#HELLO, WORLD!
+#ex2
+a = "Hello, World!"
+print(a.lower())
+#hello, world!
+#ex3
+a = " Hello, World! "
+print(a.strip()) # returns "Hello, World!"
+#ex4
+a = "Hello, World!"
+print(a.replace("H", "J"))
+#ex5
+a = "Hello, World!"
+print(a.split(",")) # returns ['Hello', ' World!']
